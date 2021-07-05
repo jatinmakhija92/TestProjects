@@ -1,0 +1,5 @@
+
+1625503863103,4012,POST - Auth - Create Token - http-200,200,OK,Thread Group 1-1,text,true,,271,241,1,1,https://restful-booker.herokuapp.com/auth,3972,0,3714
+1625503867235,1062,POST - CreateBooking - http 200,200,OK,Thread Group 1-1,text,true,,410,430,1,1,https://restful-booker.herokuapp.com/booking,1062,0,813
+1625503868298,245,PUT - UpdateBooking - http 404 NOT FOUND,404,Not Found,Thread Group 1-1,text,false,,252,439,1,1,https://restful-booker.herokuapp.com/:34,245,0,0
+1625503868626,1,Debug Sampler,200,OK,Thread Group 1-1,text,true,,350,0,1,1,null,0,0,0
